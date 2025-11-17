@@ -1,0 +1,1 @@
+from globalPluginHandler import GlobalPlugin
